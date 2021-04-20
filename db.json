@@ -165,6 +165,6 @@
         "captureKeyPresses": true,
         "capturePhotoShot": true,
         "contract": "Hourly"
-      },
+      }
   ]
 }
