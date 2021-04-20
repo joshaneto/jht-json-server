@@ -1,15 +1,6 @@
 {
   "users": [
     {
-        "metadata": {
-            "records": 22,
-            "page_count": 5,
-            "page_size": 5,
-            "current_page": 1,
-            "resource" : "/user/app-acess"
-        }
-    },
-    {
         "id": 1,
         "displayName": "Alexandr Mikhailov",
         "accountId": "557058:1f03f79d-dc7e-49a1-b03e-7b1de1f8b0ec",
